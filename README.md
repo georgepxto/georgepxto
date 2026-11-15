@@ -146,27 +146,25 @@ Sistemas web completos para clientes, sites para negócios locais e produtos pr�
 
 ## Trajetória
 
-```diff
-@@ git log --oneline --reverse george @@
-
-+ 2018  Técnico em Edificações — SENAI
-+ 2018  Programa Aprendiz Legal em ocupações administrativas — CIEE
-+ 2024  Início em Análise e Desenvolvimento de Sistemas — UNINASSAU
-+ 2024  Front-end e UI/UX Design — Origamid
-+ 2024  Suporte técnico e, depois, supervisão de suporte — OIG Gaming
-+ 2024  Protótipo de biblioteca virtual em Vue + Node.js — projeto de extensão
-+ 2026  Início como freelancer: sistemas para o grupo OIG e sites para negócios locais
-+ 2026  TakeOne, Caça-Cliente e portfólio pessoal
-```
+<table>
+  <tr>
+    <td width="90" valign="top"><b>2018</b></td>
+    <td>Técnico em Edificações — SENAI<br>Programa Aprendiz Legal em ocupações administrativas — CIEE</td>
+  </tr>
+  <tr>
+    <td width="90" valign="top"><b>2024</b></td>
+    <td>Análise e Desenvolvimento de Sistemas — UNINASSAU<br>Front-end e UI/UX Design — Origamid<br>Suporte técnico e, depois, supervisão de suporte — OIG Gaming<br>Protótipo de biblioteca virtual em Vue + Node.js — projeto de extensão</td>
+  </tr>
+  <tr>
+    <td width="90" valign="top"><b>2026</b></td>
+    <td>Início como freelancer: sistemas para o grupo OIG e sites para negócios locais<br>TakeOne, Caça-Cliente e portfólio pessoal</td>
+  </tr>
+</table>
 
 ## Atividade
 
 <p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Contribuições no GitHub">
-</p>
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Estatísticas do GitHub">
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Linguagens com mais commits">
+  <img src="./assets/atividade.svg" width="100%" alt="Atividade no GitHub nos últimos 12 meses">
 </p>
 
 ---
