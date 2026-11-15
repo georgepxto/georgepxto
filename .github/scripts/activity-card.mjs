@@ -84,7 +84,7 @@ function render(user) {
 
   const stats = [
     [cal.totalContributions, "contribuições"],
-    [c.totalCommitContributions + c.restrictedContributionsCount, "commits"],
+    [c.totalCommitContributions, "commits públicos"],
     [c.totalPullRequestContributions, "pull requests"],
     [user.repositories.totalCount, "repositórios públicos"],
   ];
