@@ -1,7 +1,9 @@
 <h1 align="center">George Peixoto</h1>
 
 <p align="center">
-  Desenvolvedor Web Full Stack &nbsp;·&nbsp; Parnaíba, PI — Brasil
+  <a href="https://georgepxtodev.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3200&pause=900&color=1F8F4E&center=true&vCenter=true&width=520&lines=Desenvolvedor+Web+Full+Stack;Sistemas+web+do+requisito+ao+deploy;React+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+NestJS;Parna%C3%ADba%2C+PI+%E2%80%94+Brasil" alt="Desenvolvedor Web Full Stack">
+  </a>
 </p>
 
 <p align="center">
@@ -39,31 +41,108 @@ const george = {
 
 Sistemas web completos para clientes, sites para negócios locais e produtos próprios. Cuido de todas as etapas: conversa com o cliente, modelagem do banco, front-end, back-end, hospedagem e manutenção depois da entrega.
 
-## Em produção para clientes
+## Para clientes
 
-| Projeto | O que faz | Stack |
-| --- | --- | --- |
-| **Plataforma de vídeos — Instituto OIG** | Plataforma de conteúdo em vídeo, mantida sob contrato mensal recorrente | — |
-| **Sistema de gestão de assistência social** | Cadastro e validação de beneficiários por CPF/CNPJ, níveis de acesso, galerias por etapa de reforma, mapa de calor por bairro, exportações e auditoria | React, Vite, NestJS, MariaDB |
-| **Escala OIG** | Geração automática de escalas e folgas (12x36, 5x2, 5 folgas/mês) para colaboradores de várias cidades, com feriados por cidade e quadro de avisos | Node.js |
-| **[Lunna Pijama](https://lunnapijama.com.br)** | Landing page de loja de pijamas em Teresina, com foco em SEO local | Front-end, Vercel |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Plataforma de vídeos</h3>
+      <img src="https://img.shields.io/badge/cliente-Instituto%20OIG-1f8f4e?style=flat-square" alt="Cliente: Instituto OIG">
+      <img src="https://img.shields.io/badge/em%20produ%C3%A7%C3%A3o-contrato%20mensal-30363d?style=flat-square" alt="Em produção, contrato mensal">
+      <p>Plataforma de conteúdo em vídeo do Instituto OIG, em produção e mantida sob contrato mensal recorrente.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gestão de assistência social</h3>
+      <img src="https://img.shields.io/badge/cliente-Instituto%20OIG-1f8f4e?style=flat-square" alt="Cliente: Instituto OIG">
+      <p>Cadastro e validação de beneficiários por CPF/CNPJ, níveis de acesso, galerias por etapa de reforma, mapa de calor por bairro, exportações e auditoria.</p>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Vite-20232a?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
+      <img src="https://img.shields.io/badge/NestJS-20232a?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS">
+      <img src="https://img.shields.io/badge/MariaDB-20232a?style=flat-square&logo=mariadb&logoColor=C0765A" alt="MariaDB">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Escala OIG</h3>
+      <img src="https://img.shields.io/badge/cliente-grupo%20OIG-1f8f4e?style=flat-square" alt="Cliente: grupo OIG">
+      <p>Geração automática de escalas e folgas (12x36, 5x2, 5 folgas/mês) para colaboradores de várias cidades, com feriados por cidade e quadro de avisos.</p>
+      <img src="https://img.shields.io/badge/Node.js-20232a?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://lunnapijama.com.br">Lunna Pijama</a></h3>
+      <img src="https://img.shields.io/badge/no%20ar-lunnapijama.com.br-1f8f4e?style=flat-square" alt="No ar">
+      <p>Landing page de uma loja de pijamas em Teresina, pensada para aparecer nas buscas locais do Google.</p>
+      <img src="https://img.shields.io/badge/Vercel-20232a?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+    </td>
+  </tr>
+</table>
 
 ## Produtos e projetos próprios
 
-| Projeto | O que faz | Stack |
-| --- | --- | --- |
-| **TakeOne** | SaaS de gestão para produtoras audiovisuais, com design system editorial próprio | React 19, Vite, Supabase |
-| **Caça-Cliente** | Encontra empresas locais sem site para prospecção, com scraping e progresso em tempo real via SSE | React, Express, Playwright, SQLite |
-| **Docentia** | Painel de gestão para professores, com tema claro e escuro | React, Firestore |
-| **MonitorHub** | Acompanha as páginas de status de bancos brasileiros e do PIX | — |
-| **[AI Calc](https://github.com/georgepxto/AI-Calc-Front)** | Calculadora desktop com visual inspirado na calculadora da Apple | Python, PySide6 |
-| **[Início](https://github.com/georgepxto/tvtclc6k)** | Otimização de uma Google TV TCL e launcher próprio, leve e direto | Android TV |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TakeOne</h3>
+      <img src="https://img.shields.io/badge/SaaS-produtoras%20audiovisuais-30363d?style=flat-square" alt="SaaS">
+      <p>Gestão para negócios cinematográficos, com design system editorial próprio: bordas finas, sem sombras, tipografia serifada.</p>
+      <img src="https://img.shields.io/badge/React%2019-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React 19">
+      <img src="https://img.shields.io/badge/Vite-20232a?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
+      <img src="https://img.shields.io/badge/Supabase-20232a?style=flat-square&logo=supabase&logoColor=3FCF8E" alt="Supabase">
+    </td>
+    <td width="50%" valign="top">
+      <h3>Caça-Cliente</h3>
+      <img src="https://img.shields.io/badge/ferramenta-prospec%C3%A7%C3%A3o-30363d?style=flat-square" alt="Ferramenta de prospecção">
+      <p>Encontra empresas locais sem site para prospecção, com scraping, progresso em tempo real via SSE e pausa para resolver CAPTCHA.</p>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Express-20232a?style=flat-square&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/Playwright-20232a?style=flat-square" alt="Playwright">
+      <img src="https://img.shields.io/badge/SQLite-20232a?style=flat-square&logo=sqlite&logoColor=74C0FC" alt="SQLite">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Giz</h3>
+      <img src="https://img.shields.io/badge/dashboard-educa%C3%A7%C3%A3o-30363d?style=flat-square" alt="Dashboard">
+      <p>Painel de gestão para professores, com tema escuro e modo claro.</p>
+      <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://img.shields.io/badge/Firestore-20232a?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firestore">
+    </td>
+    <td width="50%" valign="top">
+      <h3>MonitorHub</h3>
+      <img src="https://img.shields.io/badge/monitoramento-bancos%20e%20PIX-30363d?style=flat-square" alt="Monitoramento">
+      <p>Acompanha em um só lugar as páginas de status de bancos brasileiros e do PIX.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/georgepxto/tvtclc6k">Início</a></h3>
+      <img src="https://img.shields.io/badge/projeto%20pessoal-Google%20TV-30363d?style=flat-square" alt="Projeto pessoal">
+      <p>Otimização de uma Google TV TCL e launcher próprio, leve e direto: relógio, entradas, Wi-Fi e ajustes a um clique.</p>
+      <img src="https://img.shields.io/badge/Android%20TV-20232a?style=flat-square&logo=android&logoColor=3DDC84" alt="Android TV">
+    </td>
+  </tr>
+</table>
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,vue,html,css,nodejs,nestjs,express,mysql,sqlite,supabase,firebase,python,git,vercel,vscode&perline=9" alt="Stack">
-</p>
+<table>
+  <tr>
+    <td width="170"><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,js,react,vite,vue,html,css&theme=dark" alt="TypeScript, JavaScript, React, Vite, Vue, HTML, CSS"></td>
+  </tr>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" alt="Node.js, NestJS, Express"></td>
+  </tr>
+  <tr>
+    <td><b>Dados</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase,firebase&theme=dark" alt="MySQL/MariaDB, SQLite, Supabase, Firebase"></td>
+  </tr>
+  <tr>
+    <td><b>Deploy e ferramentas</b></td>
+    <td><img src="https://skillicons.dev/icons?i=vercel,git,github,python,vscode&theme=dark" alt="Vercel, Git, GitHub, Python, VS Code"></td>
+  </tr>
+</table>
 
 ## Trajetória
 
@@ -77,7 +156,7 @@ $ git log --oneline --reverse george
 2024  Suporte técnico e, depois, supervisão de suporte — OIG Gaming
 2024  Protótipo de biblioteca virtual em Vue + Node.js — projeto de extensão
 2026  Início como freelancer: sistemas para o grupo OIG e sites para negócios locais
-2026  TakeOne, Caça-Cliente e portfólio no ar
+2026  TakeOne, Caça-Cliente e portfólio pessoal
 ```
 
 ## Atividade
