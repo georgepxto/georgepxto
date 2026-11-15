@@ -146,24 +146,27 @@ Sistemas web completos para clientes, sites para negócios locais e produtos pr�
 
 ## Trajetória
 
-```bash
-$ git log --oneline --reverse george
+```diff
+@@ git log --oneline --reverse george @@
 
-2018  Técnico em Edificações — SENAI
-2018  Programa Aprendiz Legal em ocupações administrativas — CIEE
-2024  Início em Análise e Desenvolvimento de Sistemas — UNINASSAU
-2024  Front-end e UI/UX Design — Origamid
-2024  Suporte técnico e, depois, supervisão de suporte — OIG Gaming
-2024  Protótipo de biblioteca virtual em Vue + Node.js — projeto de extensão
-2026  Início como freelancer: sistemas para o grupo OIG e sites para negócios locais
-2026  TakeOne, Caça-Cliente e portfólio pessoal
++ 2018  Técnico em Edificações — SENAI
++ 2018  Programa Aprendiz Legal em ocupações administrativas — CIEE
++ 2024  Início em Análise e Desenvolvimento de Sistemas — UNINASSAU
++ 2024  Front-end e UI/UX Design — Origamid
++ 2024  Suporte técnico e, depois, supervisão de suporte — OIG Gaming
++ 2024  Protótipo de biblioteca virtual em Vue + Node.js — projeto de extensão
++ 2026  Início como freelancer: sistemas para o grupo OIG e sites para negócios locais
++ 2026  TakeOne, Caça-Cliente e portfólio pessoal
 ```
 
 ## Atividade
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=georgepxto&show_icons=true&hide_border=true&theme=transparent&title_color=1f8f4e&icon_color=1f8f4e" height="165" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgepxto&layout=compact&hide_border=true&theme=transparent&title_color=1f8f4e" height="165" alt="Linguagens mais usadas">
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Contribuições no GitHub">
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Estatísticas do GitHub">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Linguagens com mais commits">
 </p>
 
 ---
