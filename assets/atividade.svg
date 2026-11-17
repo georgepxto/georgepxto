@@ -402,6 +402,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="799" y="250" width="12" height="12" rx="2" fill="#161b22"><title>2026-11-14: 0</title></rect>
 <rect x="814" y="160" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-11-15: 4</title></rect>
 <rect x="814" y="175" width="12" height="12" rx="2" fill="#161b22"><title>2026-11-16: 0</title></rect>
+<rect x="814" y="190" width="12" height="12" rx="2" fill="#161b22"><title>2026-11-17: 0</title></rect>
 <text x="709" y="290" class="label" text-anchor="end">menos</text>
 <rect x="720" y="280" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="735" y="280" width="12" height="12" rx="2" fill="#0f3b23"/>
