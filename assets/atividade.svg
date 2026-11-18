@@ -13,10 +13,10 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="28" y="50" width="24" height="2" fill="#1f8f4e"/>
 <text x="28" y="38" class="eyebrow">ATIVIDADE NO GITHUB</text>
 <text x="832" y="38" class="eyebrow" text-anchor="end">ÚLTIMOS 12 MESES</text>
-<text x="28" y="90" class="value">887</text>
+<text x="28" y="90" class="value">891</text>
 <text x="28" y="110" class="label">contribuições</text>
 <line x1="213" y1="60" x2="213" y2="106" class="rule"/>
-<text x="229" y="90" class="value">311</text>
+<text x="229" y="90" class="value">313</text>
 <text x="229" y="110" class="label">commits públicos</text>
 <line x1="414" y1="60" x2="414" y2="106" class="rule"/>
 <text x="430" y="90" class="value">2</text>
@@ -402,7 +402,8 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="799" y="250" width="12" height="12" rx="2" fill="#161b22"><title>2026-11-14: 0</title></rect>
 <rect x="814" y="160" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-11-15: 4</title></rect>
 <rect x="814" y="175" width="12" height="12" rx="2" fill="#161b22"><title>2026-11-16: 0</title></rect>
-<rect x="814" y="190" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-11-17: 11</title></rect>
+<rect x="814" y="190" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-11-17: 15</title></rect>
+<rect x="814" y="205" width="12" height="12" rx="2" fill="#161b22"><title>2026-11-18: 0</title></rect>
 <text x="709" y="290" class="label" text-anchor="end">menos</text>
 <rect x="720" y="280" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="735" y="280" width="12" height="12" rx="2" fill="#0f3b23"/>
@@ -412,17 +413,17 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <text x="800" y="290" class="label">mais</text>
 <text x="28" y="312" class="eyebrow">LINGUAGENS NOS REPOSITÓRIOS</text>
 <clipPath id="bar"><rect x="28" y="324" width="804" height="8" rx="4"/></clipPath>
-<g clip-path="url(#bar)"><rect x="28" y="324" width="221" height="8" fill="#f1e05a"/><rect x="249" y="324" width="210" height="8" fill="#3178c6"/><rect x="459" y="324" width="96" height="8" fill="#e34c26"/><rect x="555" y="324" width="92" height="8" fill="#3572A5"/><rect x="647" y="324" width="60" height="8" fill="#f7523f"/><rect x="707" y="324" width="125" height="8" fill="#6e7681"/></g>
+<g clip-path="url(#bar)"><rect x="28" y="324" width="213" height="8" fill="#f1e05a"/><rect x="241" y="324" width="202" height="8" fill="#3178c6"/><rect x="443" y="324" width="93" height="8" fill="#e34c26"/><rect x="536" y="324" width="89" height="8" fill="#3572A5"/><rect x="625" y="324" width="58" height="8" fill="#f7523f"/><rect x="683" y="324" width="149" height="8" fill="#6e7681"/></g>
 <circle cx="33" cy="352" r="5" fill="#f1e05a"/>
-<text x="44" y="356" class="lang">JavaScript <tspan class="pct">27,4%</tspan></text>
+<text x="44" y="356" class="lang">JavaScript <tspan class="pct">26,5%</tspan></text>
 <circle cx="184.2" cy="352" r="5" fill="#3178c6"/>
-<text x="195.2" y="356" class="lang">TypeScript <tspan class="pct">26,1%</tspan></text>
+<text x="195.2" y="356" class="lang">TypeScript <tspan class="pct">25,2%</tspan></text>
 <circle cx="335.4" cy="352" r="5" fill="#e34c26"/>
-<text x="346.4" y="356" class="lang">HTML <tspan class="pct">11,9%</tspan></text>
+<text x="346.4" y="356" class="lang">HTML <tspan class="pct">11,5%</tspan></text>
 <circle cx="443.4" cy="352" r="5" fill="#3572A5"/>
-<text x="454.4" y="356" class="lang">Python <tspan class="pct">11,4%</tspan></text>
+<text x="454.4" y="356" class="lang">Python <tspan class="pct">11,0%</tspan></text>
 <circle cx="565.8" cy="352" r="5" fill="#f7523f"/>
-<text x="576.8" y="356" class="lang">Blade <tspan class="pct">7,4%</tspan></text>
+<text x="576.8" y="356" class="lang">Blade <tspan class="pct">7,2%</tspan></text>
 <circle cx="673.8" cy="352" r="5" fill="#6e7681"/>
-<text x="684.8" y="356" class="lang">Outras <tspan class="pct">15,7%</tspan></text>
+<text x="684.8" y="356" class="lang">Outras <tspan class="pct">18,6%</tspan></text>
 </svg>
