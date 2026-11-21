@@ -13,10 +13,10 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="28" y="50" width="24" height="2" fill="#1f8f4e"/>
 <text x="28" y="38" class="eyebrow">ATIVIDADE NO GITHUB</text>
 <text x="832" y="38" class="eyebrow" text-anchor="end">ÚLTIMOS 12 MESES</text>
-<text x="28" y="90" class="value">896</text>
+<text x="28" y="90" class="value">900</text>
 <text x="28" y="110" class="label">contribuições</text>
 <line x1="213" y1="60" x2="213" y2="106" class="rule"/>
-<text x="229" y="90" class="value">318</text>
+<text x="229" y="90" class="value">322</text>
 <text x="229" y="110" class="label">commits públicos</text>
 <line x1="414" y1="60" x2="414" y2="106" class="rule"/>
 <text x="430" y="90" class="value">2</text>
@@ -405,7 +405,8 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="814" y="190" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-11-17: 15</title></rect>
 <rect x="814" y="205" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-11-18: 1</title></rect>
 <rect x="814" y="220" width="12" height="12" rx="2" fill="#146b37"><title>2026-11-19: 3</title></rect>
-<rect x="814" y="235" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-11-20: 1</title></rect>
+<rect x="814" y="235" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-11-20: 5</title></rect>
+<rect x="814" y="250" width="12" height="12" rx="2" fill="#161b22"><title>2026-11-21: 0</title></rect>
 <text x="709" y="290" class="label" text-anchor="end">menos</text>
 <rect x="720" y="280" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="735" y="280" width="12" height="12" rx="2" fill="#0f3b23"/>
@@ -415,11 +416,11 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <text x="800" y="290" class="label">mais</text>
 <text x="28" y="312" class="eyebrow">LINGUAGENS NOS REPOSITÓRIOS</text>
 <clipPath id="bar"><rect x="28" y="324" width="804" height="8" rx="4"/></clipPath>
-<g clip-path="url(#bar)"><rect x="28" y="324" width="208" height="8" fill="#f1e05a"/><rect x="236" y="324" width="197" height="8" fill="#3178c6"/><rect x="433" y="324" width="91" height="8" fill="#e34c26"/><rect x="524" y="324" width="86" height="8" fill="#3572A5"/><rect x="610" y="324" width="65" height="8" fill="#dea584"/><rect x="675" y="324" width="157" height="8" fill="#6e7681"/></g>
+<g clip-path="url(#bar)"><rect x="28" y="324" width="208" height="8" fill="#f1e05a"/><rect x="236" y="324" width="197" height="8" fill="#3178c6"/><rect x="433" y="324" width="90" height="8" fill="#e34c26"/><rect x="523" y="324" width="86" height="8" fill="#3572A5"/><rect x="609" y="324" width="65" height="8" fill="#dea584"/><rect x="674" y="324" width="158" height="8" fill="#6e7681"/></g>
 <circle cx="33" cy="352" r="5" fill="#f1e05a"/>
 <text x="44" y="356" class="lang">JavaScript <tspan class="pct">25,8%</tspan></text>
 <circle cx="184.2" cy="352" r="5" fill="#3178c6"/>
-<text x="195.2" y="356" class="lang">TypeScript <tspan class="pct">24,6%</tspan></text>
+<text x="195.2" y="356" class="lang">TypeScript <tspan class="pct">24,5%</tspan></text>
 <circle cx="335.4" cy="352" r="5" fill="#e34c26"/>
 <text x="346.4" y="356" class="lang">HTML <tspan class="pct">11,3%</tspan></text>
 <circle cx="443.4" cy="352" r="5" fill="#3572A5"/>
