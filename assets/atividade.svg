@@ -13,10 +13,10 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="28" y="50" width="24" height="2" fill="#1f8f4e"/>
 <text x="28" y="38" class="eyebrow">ATIVIDADE NO GITHUB</text>
 <text x="832" y="38" class="eyebrow" text-anchor="end">ÚLTIMOS 12 MESES</text>
-<text x="28" y="90" class="value">913</text>
+<text x="28" y="90" class="value">922</text>
 <text x="28" y="110" class="label">contribuições</text>
 <line x1="213" y1="60" x2="213" y2="106" class="rule"/>
-<text x="229" y="90" class="value">343</text>
+<text x="229" y="90" class="value">352</text>
 <text x="229" y="110" class="label">commits públicos</text>
 <line x1="414" y1="60" x2="414" y2="106" class="rule"/>
 <text x="430" y="90" class="value">1</text>
@@ -115,7 +115,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="214" y="175" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-16: 0</title></rect>
 <rect x="214" y="190" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-17: 0</title></rect>
 <rect x="214" y="205" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-18: 0</title></rect>
-<rect x="214" y="220" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-02-19: 7</title></rect>
+<rect x="214" y="220" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-02-19: 7</title></rect>
 <rect x="214" y="235" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-20: 0</title></rect>
 <rect x="214" y="250" width="12" height="12" rx="2" fill="#161b22"><title>2026-02-21: 0</title></rect>
 <rect x="229" y="160" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-02-22: 1</title></rect>
@@ -151,7 +151,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="289" y="175" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-03-23: 12</title></rect>
 <rect x="289" y="190" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-03-24: 1</title></rect>
 <rect x="289" y="205" width="12" height="12" rx="2" fill="#146b37"><title>2026-03-25: 2</title></rect>
-<rect x="289" y="220" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-03-26: 7</title></rect>
+<rect x="289" y="220" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-03-26: 7</title></rect>
 <rect x="289" y="235" width="12" height="12" rx="2" fill="#146b37"><title>2026-03-27: 3</title></rect>
 <rect x="289" y="250" width="12" height="12" rx="2" fill="#146b37"><title>2026-03-28: 2</title></rect>
 <rect x="304" y="160" width="12" height="12" rx="2" fill="#161b22"><title>2026-03-29: 0</title></rect>
@@ -169,7 +169,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="319" y="220" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-09: 0</title></rect>
 <rect x="319" y="235" width="12" height="12" rx="2" fill="#146b37"><title>2026-04-10: 3</title></rect>
 <rect x="319" y="250" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-04-11: 1</title></rect>
-<rect x="334" y="160" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-04-12: 7</title></rect>
+<rect x="334" y="160" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-04-12: 7</title></rect>
 <rect x="334" y="175" width="12" height="12" rx="2" fill="#146b37"><title>2026-04-13: 3</title></rect>
 <rect x="334" y="190" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-14: 0</title></rect>
 <rect x="334" y="205" width="12" height="12" rx="2" fill="#161b22"><title>2026-04-15: 0</title></rect>
@@ -207,7 +207,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="394" y="250" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-16: 0</title></rect>
 <rect x="409" y="160" width="12" height="12" rx="2" fill="#161b22"><title>2026-05-17: 0</title></rect>
 <rect x="409" y="175" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-05-18: 1</title></rect>
-<rect x="409" y="190" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-05-19: 7</title></rect>
+<rect x="409" y="190" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-05-19: 7</title></rect>
 <rect x="409" y="205" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-05-20: 5</title></rect>
 <rect x="409" y="220" width="12" height="12" rx="2" fill="#146b37"><title>2026-05-21: 2</title></rect>
 <rect x="409" y="235" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-05-22: 1</title></rect>
@@ -338,15 +338,15 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="679" y="160" width="12" height="12" rx="2" fill="#161b22"><title>2026-09-20: 0</title></rect>
 <rect x="679" y="175" width="12" height="12" rx="2" fill="#161b22"><title>2026-09-21: 0</title></rect>
 <rect x="679" y="190" width="12" height="12" rx="2" fill="#161b22"><title>2026-09-22: 0</title></rect>
-<rect x="679" y="205" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-09-23: 7</title></rect>
+<rect x="679" y="205" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-09-23: 7</title></rect>
 <rect x="679" y="220" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-09-24: 26</title></rect>
 <rect x="679" y="235" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-09-25: 20</title></rect>
 <rect x="679" y="250" width="12" height="12" rx="2" fill="#161b22"><title>2026-09-26: 0</title></rect>
 <rect x="694" y="160" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-09-27: 1</title></rect>
 <rect x="694" y="175" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-09-28: 6</title></rect>
-<rect x="694" y="190" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-09-29: 7</title></rect>
+<rect x="694" y="190" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-09-29: 7</title></rect>
 <rect x="694" y="205" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-09-30: 4</title></rect>
-<rect x="694" y="220" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-10-01: 7</title></rect>
+<rect x="694" y="220" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-10-01: 7</title></rect>
 <rect x="694" y="235" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-10-02: 9</title></rect>
 <rect x="694" y="250" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-10-03: 17</title></rect>
 <text x="709" y="150" class="month">out</text>
@@ -354,7 +354,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="709" y="175" width="12" height="12" rx="2" fill="#161b22"><title>2026-10-05: 0</title></rect>
 <rect x="709" y="190" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-10-06: 1</title></rect>
 <rect x="709" y="205" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-10-07: 8</title></rect>
-<rect x="709" y="220" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-10-08: 7</title></rect>
+<rect x="709" y="220" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-10-08: 7</title></rect>
 <rect x="709" y="235" width="12" height="12" rx="2" fill="#161b22"><title>2026-10-09: 0</title></rect>
 <rect x="709" y="250" width="12" height="12" rx="2" fill="#161b22"><title>2026-10-10: 0</title></rect>
 <rect x="724" y="160" width="12" height="12" rx="2" fill="#161b22"><title>2026-10-11: 0</title></rect>
@@ -367,7 +367,7 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="739" y="160" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-10-18: 14</title></rect>
 <rect x="739" y="175" width="12" height="12" rx="2" fill="#161b22"><title>2026-10-19: 0</title></rect>
 <rect x="739" y="190" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-10-20: 9</title></rect>
-<rect x="739" y="205" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-10-21: 7</title></rect>
+<rect x="739" y="205" width="12" height="12" rx="2" fill="#1f8f4e"><title>2026-10-21: 7</title></rect>
 <rect x="739" y="220" width="12" height="12" rx="2" fill="#146b37"><title>2026-10-22: 3</title></rect>
 <rect x="739" y="235" width="12" height="12" rx="2" fill="#146b37"><title>2026-10-23: 2</title></rect>
 <rect x="739" y="250" width="12" height="12" rx="2" fill="#161b22"><title>2026-10-24: 0</title></rect>
@@ -404,7 +404,8 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <rect x="814" y="175" width="12" height="12" rx="2" fill="#146b37"><title>2026-11-23: 2</title></rect>
 <rect x="814" y="190" width="12" height="12" rx="2" fill="#0f3b23"><title>2026-11-24: 1</title></rect>
 <rect x="814" y="205" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-11-25: 17</title></rect>
-<rect x="814" y="220" width="12" height="12" rx="2" fill="#146b37"><title>2026-11-26: 2</title></rect>
+<rect x="814" y="220" width="12" height="12" rx="2" fill="#3fbf73"><title>2026-11-26: 11</title></rect>
+<rect x="814" y="235" width="12" height="12" rx="2" fill="#161b22"><title>2026-11-27: 0</title></rect>
 <text x="709" y="290" class="label" text-anchor="end">menos</text>
 <rect x="720" y="280" width="12" height="12" rx="2" fill="#161b22"/>
 <rect x="735" y="280" width="12" height="12" rx="2" fill="#0f3b23"/>
@@ -414,11 +415,11 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <text x="800" y="290" class="label">mais</text>
 <text x="28" y="312" class="eyebrow">LINGUAGENS NOS REPOSITÓRIOS</text>
 <clipPath id="bar"><rect x="28" y="324" width="804" height="8" rx="4"/></clipPath>
-<g clip-path="url(#bar)"><rect x="28" y="324" width="205" height="8" fill="#3178c6"/><rect x="233" y="324" width="202" height="8" fill="#f1e05a"/><rect x="435" y="324" width="91" height="8" fill="#e34c26"/><rect x="526" y="324" width="84" height="8" fill="#3572A5"/><rect x="610" y="324" width="63" height="8" fill="#dea584"/><rect x="673" y="324" width="159" height="8" fill="#6e7681"/></g>
+<g clip-path="url(#bar)"><rect x="28" y="324" width="206" height="8" fill="#3178c6"/><rect x="234" y="324" width="202" height="8" fill="#f1e05a"/><rect x="436" y="324" width="90" height="8" fill="#e34c26"/><rect x="526" y="324" width="83" height="8" fill="#3572A5"/><rect x="609" y="324" width="63" height="8" fill="#dea584"/><rect x="672" y="324" width="160" height="8" fill="#6e7681"/></g>
 <circle cx="33" cy="352" r="5" fill="#3178c6"/>
-<text x="44" y="356" class="lang">TypeScript <tspan class="pct">25,5%</tspan></text>
+<text x="44" y="356" class="lang">TypeScript <tspan class="pct">25,6%</tspan></text>
 <circle cx="184.2" cy="352" r="5" fill="#f1e05a"/>
-<text x="195.2" y="356" class="lang">JavaScript <tspan class="pct">25,2%</tspan></text>
+<text x="195.2" y="356" class="lang">JavaScript <tspan class="pct">25,1%</tspan></text>
 <circle cx="335.4" cy="352" r="5" fill="#e34c26"/>
 <text x="346.4" y="356" class="lang">HTML <tspan class="pct">11,3%</tspan></text>
 <circle cx="443.4" cy="352" r="5" fill="#3572A5"/>
@@ -426,5 +427,5 @@ text { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Noto Sans', 
 <circle cx="565.8" cy="352" r="5" fill="#dea584"/>
 <text x="576.8" y="356" class="lang">Rust <tspan class="pct">7,8%</tspan></text>
 <circle cx="666.5999999999999" cy="352" r="5" fill="#6e7681"/>
-<text x="677.5999999999999" y="356" class="lang">Outras <tspan class="pct">19,8%</tspan></text>
+<text x="677.5999999999999" y="356" class="lang">Outras <tspan class="pct">19,9%</tspan></text>
 </svg>
